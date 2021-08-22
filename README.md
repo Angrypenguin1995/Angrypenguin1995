@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Angrypenguin1995
+- 👋 Hi, I’m Satish
 - 👀 I’m interested in Building Web Applications
 - 🌱 I’m currently learning Javascript/React
 - 💞️ I’m looking to collaborate on Web applications
